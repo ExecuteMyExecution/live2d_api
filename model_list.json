@@ -1,7 +1,7 @@
 {
     "models": [
         [
-            "Potion-Maker/Pio",
+            "Potion-Maker/Pio/index.json",
             "Potion-Maker/Pio/model.json"
         ],
         "Potion-Maker/Tia",

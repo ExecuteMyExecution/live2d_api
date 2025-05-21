@@ -17,7 +17,7 @@ $modelName = $modelList->id_to_name($modelId);
 
 if (is_array($modelName)) {
     $modelName = $modelTexturesId > 0 ? $modelName[$modelTexturesId-1] : $modelName[0];
-    $json = json_decode(file_get_contents('../model/'.$modelName.'/index.json'), 1);
+    $json = json_decode(file_get_contents('../model/'.$modelName), 1);
 } else {
     $json = json_decode(file_get_contents('../model/'.$modelName.'/index.json'), 1);
     if ($modelTexturesId > 0) {
