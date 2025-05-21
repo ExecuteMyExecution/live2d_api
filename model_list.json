@@ -1,6 +1,9 @@
 {
     "models": [
-        "Potion-Maker/Pio",
+        [
+            "Potion-Maker/Pio",
+            "Potion-Maker/Pio/model.json"
+        ],
         "Potion-Maker/Tia",
         "bilibili-live/22",
         "bilibili-live/33",
