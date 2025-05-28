@@ -154,8 +154,36 @@
             "Potion-Maker/Pio/jsons/frill-blouse-costume-red.json",
             "Potion-Maker/Pio/jsons/cute-pajamas-costume-purple.json"
         ],
-        "bilibili-live/22",
-        "bilibili-live/33",
+        [
+            "Potion-Maker/Pio/jsons/vdays.json",
+            "Potion-Maker/Pio/jsons/spring-2018.json",
+            "Potion-Maker/Pio/jsons/summer2017-high.json",
+            "Potion-Maker/Pio/jsons/newyear.json",
+            "Potion-Maker/Pio/jsons/cba-super.json",
+            "Potion-Maker/Pio/jsons/tomo-low.json",
+            "Potion-Maker/Pio/jsons/tomo-high.json",
+            "Potion-Maker/Pio/jsons/school2017.json",
+            "Potion-Maker/Pio/jsons/xmas.json",
+            "Potion-Maker/Pio/jsons/valley2017.json",
+            "Potion-Maker/Pio/jsons/default.json",
+            "Potion-Maker/Pio/jsons/summer2017-low.json",
+            "Potion-Maker/Pio/jsons/cba-normal.json"
+        ],
+        [
+            "Potion-Maker/Pio/jsons/vdays.json",
+            "Potion-Maker/Pio/jsons/spring-2018.json",
+            "Potion-Maker/Pio/jsons/summer2017-high.json",
+            "Potion-Maker/Pio/jsons/newyear.json",
+            "Potion-Maker/Pio/jsons/cba-super.json",
+            "Potion-Maker/Pio/jsons/tomo-low.json",
+            "Potion-Maker/Pio/jsons/tomo-high.json",
+            "Potion-Maker/Pio/jsons/school2017.json",
+            "Potion-Maker/Pio/jsons/xmas.json",
+            "Potion-Maker/Pio/jsons/valley2017.json",
+            "Potion-Maker/Pio/jsons/default.json",
+            "Potion-Maker/Pio/jsons/summer2017-low.json",
+            "Potion-Maker/Pio/jsons/cba-normal.json"
+        ],
         [
             "ShizukuTalk/shizuku-48/index.json",
             "ShizukuTalk/shizuku-pajama/index.json"
