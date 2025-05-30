@@ -4,6 +4,12 @@
   "textures": [
     "model.1024/texture_00.png"
   ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": -0.2,
+    "width": 1.6,
+    "height": 1.6
+  },
   "motions": {
     "idle": [
       { "file": "motions/daiji_idle_01.mtn"}

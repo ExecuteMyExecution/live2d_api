@@ -4,16 +4,32 @@
   "textures": [
     "model.1024/texture_00.png"
   ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": -0.3
+  },
   "motions": {
     "idle": [
-      { "file": "motions/daiji_idle.mtn"}
+      {
+        "file": "motions/daiji_idle.mtn"
+      }
     ],
     "": [
-      { "file": "motions/motou_01.mtn" },
-      { "file": "motions/motou_02.mtn" },
-      { "file": "motions/motou_03.mtn" },
-      { "file": "motions/wait_01.mtn" },
-      { "file": "motions/wait_02.mtn" }
+      {
+        "file": "motions/motou_01.mtn"
+      },
+      {
+        "file": "motions/motou_02.mtn"
+      },
+      {
+        "file": "motions/motou_03.mtn"
+      },
+      {
+        "file": "motions/wait_01.mtn"
+      },
+      {
+        "file": "motions/wait_02.mtn"
+      }
     ]
   },
   "physics": "physics.json",
