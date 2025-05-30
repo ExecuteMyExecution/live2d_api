@@ -210,7 +210,24 @@
             "HyperdimensionNeptunia/histoire/index.json",
             "HyperdimensionNeptunia/histoirenohover/index.json"
         ],
-        "Girls-Last-Tour/yuri/model.json"
+        "Girls-Last-Tour/yuri/model.json",
+        "Illyasviel/illyasviel.model.json",
+        "Dollsfrontline/kp31_310/normal/model.json",
+        [
+            "Dollsfrontline/armor/model1.json",
+            "Dollsfrontline/armor/model2.json",
+            "Dollsfrontline/armor/model3.json"
+        ],
+        [
+            "Dollsfrontline/command/model1.json",
+            "Dollsfrontline/command/model2.json",
+            "Dollsfrontline/command/model3.json"
+        ],
+        [
+            "Dollsfrontline/shield/model1.json",
+            "Dollsfrontline/shield/model2.json",
+            "Dollsfrontline/shield/model3.json"
+        ]
     ],
     "messages": [
         "来自 Potion Maker 的 Pio 酱 ~",
@@ -219,6 +236,11 @@
         "来自 Bilibili Live 的 33 的说",
         "Shizuku Talk ！这里是 Shizuku ~",
         "Nep! Nep! 超次元游戏：海王星 系列",
-        "就算没有意义，偶尔也会有好事发生的"
+        "就算没有意义，偶尔也会有好事发生的",
+        "你好，我是伊莉雅丝菲尔·冯·爱因兹贝伦，叫我伊莉雅就好。就像你看到的，是个随处可见的小学生，虽然……在做着魔法少女的工作，但我确实是普通的小学生！",
+        "索米1931式，报到。指挥官……请让我在您的部队中，继续履行使命吧！",
+        "记住，别说俄语……因为我、我听不懂啊……",
+        "学会了我的运营，剩下的只要Rush过去！",
+        "已经没什么好怕的了。"
     ]
 }
